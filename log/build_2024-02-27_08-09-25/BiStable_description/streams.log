@@ -1,0 +1,51 @@
+[0.598s] Invoking command in '/home/the_hassan_shahzad/ros2_ws/src/BiStable_description': PYTHONPATH=/home/the_hassan_shahzad/ros2_ws/src/BiStable_description/build/BiStable_description/prefix_override:/home/the_hassan_shahzad/ros2_ws/src/BiStable_description/install/BiStable_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/BiStable_description build --build-base /home/the_hassan_shahzad/ros2_ws/src/BiStable_description/build/BiStable_description/build install --record /home/the_hassan_shahzad/ros2_ws/src/BiStable_description/build/BiStable_description/install.log --single-version-externally-managed
+[0.769s] running egg_info
+[0.769s] creating build/BiStable_description/BiStable_description.egg-info
+[0.769s] writing build/BiStable_description/BiStable_description.egg-info/PKG-INFO
+[0.769s] writing dependency_links to build/BiStable_description/BiStable_description.egg-info/dependency_links.txt
+[0.770s] writing entry points to build/BiStable_description/BiStable_description.egg-info/entry_points.txt
+[0.770s] writing requirements to build/BiStable_description/BiStable_description.egg-info/requires.txt
+[0.770s] writing top-level names to build/BiStable_description/BiStable_description.egg-info/top_level.txt
+[0.770s] writing manifest file 'build/BiStable_description/BiStable_description.egg-info/SOURCES.txt'
+[0.771s] reading manifest file 'build/BiStable_description/BiStable_description.egg-info/SOURCES.txt'
+[0.771s] writing manifest file 'build/BiStable_description/BiStable_description.egg-info/SOURCES.txt'
+[0.771s] running build
+[0.771s] running build_py
+[0.771s] creating /home/the_hassan_shahzad/ros2_ws/src/BiStable_description/build/BiStable_description/build
+[0.771s] creating /home/the_hassan_shahzad/ros2_ws/src/BiStable_description/build/BiStable_description/build/lib
+[0.772s] creating /home/the_hassan_shahzad/ros2_ws/src/BiStable_description/build/BiStable_description/build/lib/BiStable_description
+[0.772s] copying BiStable_description/__init__.py -> /home/the_hassan_shahzad/ros2_ws/src/BiStable_description/build/BiStable_description/build/lib/BiStable_description
+[0.772s] running install
+[0.772s] running install_lib
+[0.772s] creating /home/the_hassan_shahzad/ros2_ws/src/BiStable_description/install/BiStable_description/lib/python3.10/site-packages/BiStable_description
+[0.772s] copying /home/the_hassan_shahzad/ros2_ws/src/BiStable_description/build/BiStable_description/build/lib/BiStable_description/__init__.py -> /home/the_hassan_shahzad/ros2_ws/src/BiStable_description/install/BiStable_description/lib/python3.10/site-packages/BiStable_description
+[0.772s] byte-compiling /home/the_hassan_shahzad/ros2_ws/src/BiStable_description/install/BiStable_description/lib/python3.10/site-packages/BiStable_description/__init__.py to __init__.cpython-310.pyc
+[0.772s] running install_data
+[0.773s] creating /home/the_hassan_shahzad/ros2_ws/src/BiStable_description/install/BiStable_description/share/ament_index
+[0.773s] creating /home/the_hassan_shahzad/ros2_ws/src/BiStable_description/install/BiStable_description/share/ament_index/resource_index
+[0.773s] creating /home/the_hassan_shahzad/ros2_ws/src/BiStable_description/install/BiStable_description/share/ament_index/resource_index/packages
+[0.773s] copying resource/BiStable_description -> /home/the_hassan_shahzad/ros2_ws/src/BiStable_description/install/BiStable_description/share/ament_index/resource_index/packages
+[0.773s] copying package.xml -> /home/the_hassan_shahzad/ros2_ws/src/BiStable_description/install/BiStable_description/share/BiStable_description
+[0.773s] creating /home/the_hassan_shahzad/ros2_ws/src/BiStable_description/install/BiStable_description/share/BiStable_description/launch
+[0.773s] copying launch/display.launch.py -> /home/the_hassan_shahzad/ros2_ws/src/BiStable_description/install/BiStable_description/share/BiStable_description/launch
+[0.773s] copying launch/gazebo.launch.py -> /home/the_hassan_shahzad/ros2_ws/src/BiStable_description/install/BiStable_description/share/BiStable_description/launch
+[0.773s] creating /home/the_hassan_shahzad/ros2_ws/src/BiStable_description/install/BiStable_description/share/BiStable_description/urdf
+[0.773s] copying urdf/materials.xacro -> /home/the_hassan_shahzad/ros2_ws/src/BiStable_description/install/BiStable_description/share/BiStable_description/urdf
+[0.778s] copying urdf/BiStable.gazebo -> /home/the_hassan_shahzad/ros2_ws/src/BiStable_description/install/BiStable_description/share/BiStable_description/urdf
+[0.779s] copying urdf/BiStable.trans -> /home/the_hassan_shahzad/ros2_ws/src/BiStable_description/install/BiStable_description/share/BiStable_description/urdf
+[0.779s] copying urdf/BiStable.xacro -> /home/the_hassan_shahzad/ros2_ws/src/BiStable_description/install/BiStable_description/share/BiStable_description/urdf
+[0.779s] creating /home/the_hassan_shahzad/ros2_ws/src/BiStable_description/install/BiStable_description/share/BiStable_description/meshes
+[0.779s] copying meshes/left_wheel_1.stl -> /home/the_hassan_shahzad/ros2_ws/src/BiStable_description/install/BiStable_description/share/BiStable_description/meshes
+[0.779s] copying meshes/left_stepper_1.stl -> /home/the_hassan_shahzad/ros2_ws/src/BiStable_description/install/BiStable_description/share/BiStable_description/meshes
+[0.779s] copying meshes/right_wheel_1.stl -> /home/the_hassan_shahzad/ros2_ws/src/BiStable_description/install/BiStable_description/share/BiStable_description/meshes
+[0.779s] copying meshes/base_link.stl -> /home/the_hassan_shahzad/ros2_ws/src/BiStable_description/install/BiStable_description/share/BiStable_description/meshes
+[0.779s] copying meshes/rpi_1.stl -> /home/the_hassan_shahzad/ros2_ws/src/BiStable_description/install/BiStable_description/share/BiStable_description/meshes
+[0.779s] copying meshes/right_stepper_1.stl -> /home/the_hassan_shahzad/ros2_ws/src/BiStable_description/install/BiStable_description/share/BiStable_description/meshes
+[0.779s] copying meshes/NUCLEO_1.stl -> /home/the_hassan_shahzad/ros2_ws/src/BiStable_description/install/BiStable_description/share/BiStable_description/meshes
+[0.779s] creating /home/the_hassan_shahzad/ros2_ws/src/BiStable_description/install/BiStable_description/share/BiStable_description/config
+[0.779s] copying config/display.rviz -> /home/the_hassan_shahzad/ros2_ws/src/BiStable_description/install/BiStable_description/share/BiStable_description/config
+[0.780s] running install_egg_info
+[0.781s] Copying build/BiStable_description/BiStable_description.egg-info to /home/the_hassan_shahzad/ros2_ws/src/BiStable_description/install/BiStable_description/lib/python3.10/site-packages/BiStable_description-0.0.0-py3.10.egg-info
+[0.781s] running install_scripts
+[0.794s] writing list of installed files to '/home/the_hassan_shahzad/ros2_ws/src/BiStable_description/build/BiStable_description/install.log'
+[0.809s] Invoked command in '/home/the_hassan_shahzad/ros2_ws/src/BiStable_description' returned '0': PYTHONPATH=/home/the_hassan_shahzad/ros2_ws/src/BiStable_description/build/BiStable_description/prefix_override:/home/the_hassan_shahzad/ros2_ws/src/BiStable_description/install/BiStable_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/BiStable_description build --build-base /home/the_hassan_shahzad/ros2_ws/src/BiStable_description/build/BiStable_description/build install --record /home/the_hassan_shahzad/ros2_ws/src/BiStable_description/build/BiStable_description/install.log --single-version-externally-managed
